@@ -171,16 +171,16 @@ export default function Home() {
 				{messages.length === 0 && (
 					<>
 						<p>
-							A fast, open-source voice assistant powered by{" "}
+							A sentient, voice assistant powered by{" "}
 							<A href="https://groq.com">Groq</A>,{" "}
 							<A href="https://cartesia.ai">Cartesia</A>,{" "}
 							<A href="https://www.vad.ricky0123.com/">VAD</A>,
 							and <A href="https://vercel.com">Vercel</A>.{" "}
 							<A
-								href="https://github.com/ai-ng/swift"
+								href="https://github.com/petroff69/Sentient-Voice-Recognition-AI/tree/main"
 								target="_blank"
 							>
-								Learn more
+								Zlatimir Petrov
 							</A>
 							.
 						</p>
