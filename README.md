@@ -1,13 +1,20 @@
+
 # Sentient Voice Recognition AI
 
-SVR AI is a fast AI voice assistant.
-------------------------------- Used tokenisation--------------------------------
--   [Groq](https://groq.com) and [Meta Llama 3](https://llama.meta.com/llama3/).
--   [Cartesia](https://cartesia.ai).
--   [VAD](https://www.vad.ricky0123.com/).'
----------------------------------------------------------------------------------
--   The app is a [Next.js](https://nextjs.org) project deployed with Vercel.
+**Sentient Voice Assistant AI** is a high-speed, voice-driven chatbot that enables full conversational interactions without the need for a keyboard. Utilizing **Meta's Llama 3**, this assistant provides responsive, voice-only communication that feels highly intuitive and "sentient."
 
-## Developing
--   Clone the repository
--   Copy `.env.example` to `.env.local` and fill in the environment variables.
+### Key Components
+- **Tokenization and NLP**: The project leverages advanced tokenization and NLP technologies.
+  - [Groq](https://groq.com) and [Meta Llama 3](https://llama.meta.com/llama3/) for high-performance language processing.
+  - [Cartesia](https://cartesia.ai) for spatial reasoning capabilities.
+  - [VAD (Voice Activity Detection)](https://www.vad.ricky0123.com/) to ensure smooth, uninterrupted voice interactions.
+- **Platform**: Built on [Next.js](https://nextjs.org) and deployed with Vercel.
+
+### Getting Started with Development
+1. **Clone the Repository**
+2. **Configure Environment Variables**:
+   - Copy `.env.example` to `.env.local` and add necessary values.
+3. **Install Dependencies**:
+   - Run `pnpm install` to set up all required packages.
+
+Enjoy!
