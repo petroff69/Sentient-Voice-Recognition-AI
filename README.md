@@ -16,5 +16,3 @@
    - Copy `.env.example` to `.env.local` and add necessary values.
 3. **Install Dependencies**:
    - Run `pnpm install` to set up all required packages.
-
-Enjoy!
